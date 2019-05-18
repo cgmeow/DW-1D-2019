@@ -1,0 +1,5 @@
+firebase-admin
+kivy
+matplotlib
+kivy-garden
+more-itertools
